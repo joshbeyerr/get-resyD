@@ -17,3 +17,10 @@ Only possible risk right now is if you add too many monitors and get your IP ban
 Current refresh time for the monitor is every 2 minutes
 
 As stated above, you must input a discord webhook URL, and a successful notification will ping to this when the monitor finds something.
+
+![Alt text](images/screenShot1.jpg)
+![Alt text](images/screenShot2.jpg)
+![Alt text](images/screenShot3.jpg)
+
+Discord Webhook Example
+![Alt text](images/ScreenShotDiscord.jpg)
