@@ -10,7 +10,7 @@ Instructions
 Simply input the Resy URL
     - e.g: https://resy.com/cities/toronto-on/venues/taverne-bernhardts
 Select a start and end date for your reservations, times, party size and add to monitor
- - Again, must input RESY API Key, and your own discord webhook
+ - Again, must input RESY API Key, and your own discord webhook in a .env file
 
 As long as you keep the tab open, it will run the background. Each monitored item is an indepdant thread, so they can run concurrently with no problems
 Only possible risk right now is if you add too many monitors and get your IP banned for too many requests on Resy.com
